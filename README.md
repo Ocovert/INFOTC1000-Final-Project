@@ -23,5 +23,6 @@ This tutorial is for anyone looking to purchase/build their own computer or just
 
 * [Check Components & Compatability](/Covert_Build.md)
 
+* [Code, Quotes, and Job hunting](/codeBlock.md)
 
 ***
