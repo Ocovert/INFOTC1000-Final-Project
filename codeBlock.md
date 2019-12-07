@@ -1,7 +1,6 @@
 _"Do or do not, there is no try"_
 _- Master Yoda_
 
-***
 
 Here is some sudo code for you:
 
@@ -13,5 +12,8 @@ Here is some sudo code for you:
 * [LinkedIn](https://www.linkedin.com/jobs/)
 * [BuiltinNYC](https://www.builtinnyc.com/jobs)
 * [angel.co](https://angel.co/jobs "Startups")
+
+***
+
 
 [Return](/README.md)
